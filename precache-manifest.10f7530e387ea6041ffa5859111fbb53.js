@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20df936bc1e8ae7792d7c0fdfe3f7a37",
+    "revision": "85375aa435735c1d4743a4a881d1bc6f",
     "url": "/fuze-test/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fuze-test/static/css/2.9f2893ca.chunk.css"
   },
   {
-    "revision": "8bf0b7cb5bf37758203b",
+    "revision": "1e4c611b35788a22d738",
     "url": "/fuze-test/static/css/main.035230d7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fuze-test/static/js/2.ae0d563c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8bf0b7cb5bf37758203b",
-    "url": "/fuze-test/static/js/main.896c5065.chunk.js"
+    "revision": "1e4c611b35788a22d738",
+    "url": "/fuze-test/static/js/main.17208179.chunk.js"
   },
   {
     "revision": "02d4a46e9ac7f41ade0a",
