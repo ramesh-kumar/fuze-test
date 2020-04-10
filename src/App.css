@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.listHeader {
+  display: flex;
+  list-style: none;
+}
+
+.listHeader  > li {
+  float: left;
+  margin: 10px;
+  font-weight: bold;
+}
+
+.fileList {
+  list-style: none;
+}
+
+.fileList > li {
+  display: flex;
+}
+.fileList > li > span {
+  margin: 10px;
+}
